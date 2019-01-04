@@ -1291,7 +1291,7 @@
 	"english": "Lvl 60 Desperate Pisard",
 	"japanese": "Lv60 捨て身のピーサード",
 	"room": "lvl60desperatepisard",
-	"image": "/assets/raids/BattleRaid_Pretty_Cure_Memories_of_the_Sky_Raid_ExtremePlus.png",
+	"image": "/assets/raids/BattleRaid_Pretty_Cure_Memories_of_the_Sky_Nightmare120.png",
 	"category": "Event",
 	"element": "Dark"
 },
@@ -1334,4 +1334,28 @@
 	"image": "/assets/raids/BattleRaid_Freyr_Nightmare100.png",
 	"category": "Unite and Fight",
 	"element": "Wind"
+},
+{
+	"english": "Lvl 120 Huanglong",
+	"japanese": "Lv120 黄龍",
+	"room": "lvl120huanglong",
+	"image": "/assets/raids/BattleRaid_Huanglong_and_Qilin_Impossible.png",
+	"category": "Unite and Fight",
+	"element": "Light"
+},
+{
+	"english": "Lvl 150 Tiamat Malice",
+	"japanese": "Lv150 ティアマト・マリス",
+	"room": "lvl150tiamatmalice",
+	"image": "/assets/raids/BattleRaid_Tiamat_Malice_Impossible.png",
+	"category": "Impossible Nightmare",
+	"element": "Wind"
+},
+{
+	"english": "Lvl 200 Akasha",
+	"japanese": "Lv200 アーカーシャ",
+	"room": "lvl200akasha",
+	"image": "/assets/raids/BattleRaid_Akasha_Impossible.png",
+	"category": "Impossible Nightmare",
+	"element": "Light"
 }]
